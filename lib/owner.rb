@@ -63,5 +63,6 @@ class Owner
   end
   
   def list_pets
+    fish_count = 
   end
 end
